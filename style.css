@@ -380,7 +380,11 @@ p {
 	height: 300px;
 	overflow: hidden;
 	/* position: relative; */
+	border: 1px solid #29323c;
+	border-top: none;
 }
+
+
 #projects .project-img:after {
 	content: '';
 	position: absolute;
